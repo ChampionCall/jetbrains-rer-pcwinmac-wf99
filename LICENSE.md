@@ -1,4 +1,4 @@
-h# 
+h# حصرية JetBrains Rider سكريبتات لـ Mac OS | VIP JetBrains Rider سكريبتات لـ PC Windows. مع الاختبار الآلي و سير عمل طلب السحب — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
